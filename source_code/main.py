@@ -3,6 +3,7 @@ Starting Template
 
 """
 import arcade
+## to run pip instal arcade
 
 SCREEN_WIDTH = 800
 SCREEN_HEIGHT = 600
